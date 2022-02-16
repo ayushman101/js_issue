@@ -5,6 +5,7 @@ Functions:
 2.Mention the person responsible for resolving the issue.
 3.Features provided to user for closing and deleteing issues.
 
+Three files : Index.html, issue.css ,  main.js 
  
 
 
